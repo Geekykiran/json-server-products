@@ -59,6 +59,12 @@
       "title": "Smartphone Tripod",
       "price": 899,
       "image": "https://imgs.search.brave.com/CmL5iYqxJuJkXFG2cxw5mrOVcmHHDfrh5EkSjIQHKes/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L05m/M3NmcWU1dHlFaVNv/UlY2MlFzQVguanBn"
+    },
+    {
+      "id": "11",
+      "title": "Drone",
+      "price": 19899,
+      "image": "https://cdn.pixabay.com/photo/2023/08/13/17/54/drone-8188144_1280.jpg"
     }
   ]
 }
